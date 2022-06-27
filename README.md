@@ -3,8 +3,7 @@
 ## RCNN(Region-based Convolutional Neural Network)이란
 * CNN과 region proposal 알고리즘을 연결하여 객체 탐지를 수행하는 two-stage 신경망 아키텍쳐
 * CNN을 이용하여 이미지 분류를 수행
-* region proposal을 이용하여 이미지 내 객체(objects)의 위치를 표시(localization)
-### 
+* region proposal을 이용하여 이미지 내 객체(objects)의 위치를 표시(localization)  
 
 
 ## 프로젝트 가설 설정
