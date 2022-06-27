@@ -26,3 +26,4 @@
 
 
 ## 실험 결과
+![Alt text](result.jpg)
